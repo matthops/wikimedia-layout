@@ -30,7 +30,7 @@ section {
 
 }
 .maintext{
-	width: 100px;
+	width: 100%;
 	display: inline;
 	text-align: center;
 	background: blue;
@@ -41,10 +41,10 @@ section {
 }
 
 .test {
-	width: 900px;
+	width: 75%;
 	display: inline-block;
 	font-family: sans-serif;
-	font-size: 125%;
+	font-size: 1.1em;
 }
 
 #bold {
