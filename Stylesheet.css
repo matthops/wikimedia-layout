@@ -1,0 +1,52 @@
+* {
+	text-align: center;
+}
+
+a {
+	color: #162194;
+	text-decoration:none;
+
+}
+#image {
+	height: 300px;
+	width: 200px;
+	display:inline;
+	text-align: center;
+}
+
+img {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+p {
+	text-align: justify;
+	word-spacing: 1px;
+	line-height: 28px;
+}
+
+section {
+	text-align: center;
+
+}
+.maintext{
+	width: 100px;
+	display: inline;
+	text-align: center;
+	background: blue;
+}
+
+#right {
+	text-align: right;
+}
+
+.test {
+	width: 900px;
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 125%;
+}
+
+#bold {
+	font-weight:bold;
+}
